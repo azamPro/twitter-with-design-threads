@@ -4,7 +4,7 @@ We have designed Twitter in the form of Threads and we have put the home page, t
 
 
 ## the team work in it
-- azam Azam.alkhodiriy
+- azam Azam.alkhodiriy@gmail.com
 - faitmh faitmh.ab@gmail.com
 - shikhah Sh.alhuzimi@gmail.com
 - ghaida Ghaidaalharby19@gmail.com
